@@ -88,3 +88,6 @@ class Test_calc(unittest.TestCase):
        user_can_get_2 = self.terminal.get_my_money(-1)
        self.assertEqual(self.terminal.balance, 2500)
 
+   def test_status_balance(self):
+       self.assertEqual(self.terminal.user_can_observe_his_balance(), self.terminal.balance)
+

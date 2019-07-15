@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eff5481-b321-4560-8ba8-d474e042e9ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Internet_Bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Internet_Bank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Internet_Bank.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Internet_Bank.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Except.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Internet_Bank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_Internet_Bank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="e#1#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Internet_Bank.py" />
+        <option value="$PROJECT_DIR$/Test_Internet_Bank.py" />
+        <option value="$PROJECT_DIR$/Except.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Internet_Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Internet_Bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for Test_Internet_Bank.Test_calc.test_status_balance">
+    <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Internet_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Internet_Bank.Test_calc.test_status_balance&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Test_Internet_Bank.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Internet_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test_Internet_Bank.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for Test_Internet_Bank.Test_calc.test_status_balance" />
+        <item itemvalue="Python tests.Unittests in Test_Internet_Bank.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eff5481-b321-4560-8ba8-d474e042e9ae" name="Default Changelist" comment="" />
+      <created>1563216757827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563216757827</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 39m 33s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 40m 13s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 40m 21s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 40m 41s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 40m 46s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 41m 20s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 41m 27s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 49m 14s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 49m 42s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Test_Internet_Bank_Test_calc_test_status_balance - 2019.07.15 at 22h 49m 58s.xml">
+      <configuration name="Unittests for Test_Internet_Bank.Test_calc.test_status_balance" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Internet_Bank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Internet_Bank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

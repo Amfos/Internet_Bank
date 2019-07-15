@@ -37,3 +37,9 @@ class InternetBank (object):
 
            else:
                return "You don't have enough money!!"
+
+   def user_can_observe_his_balance(self):
+
+       if self.user_can_get_money:
+            return self.balance
+
