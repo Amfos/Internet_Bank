@@ -1,4 +1,4 @@
-# from Exceptions import *
+from Except import *
 
 
 class InternetBank (object):
@@ -42,4 +42,5 @@ class InternetBank (object):
 
        if self.user_can_get_money:
             return self.balance
-
+       else:
+           raise EnterPin
