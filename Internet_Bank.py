@@ -2,14 +2,14 @@
 
 
 class InternetBank (object):
-   balance = 5000
-   attempts = 3
-   user_can_get_money = False
+    balance = 5000
+    attempts = 3
+    user_can_get_money = False
 
-   def top_up_money(self, my_money):
+    def top_up_money(self, my_money):
        return self.balance + my_money
 
-   def enter_pin_code(self, pin_code):
+    def enter_pin_code(self, pin_code):
        correct_pin_cod = 333
        if self.attempts == 0:
            return ("Your card has been blocked")
@@ -22,7 +22,7 @@ class InternetBank (object):
            self.user_can_get_money = True
            return True
 
-   def get_my_money(self, user_get_money):
+    def get_my_money(self, user_get_money):
 
        if self.user_can_get_money:
            if user_get_money <= self.balance:
@@ -38,7 +38,7 @@ class InternetBank (object):
            else:
                return "You don't have enough money!!"
 
-   def user_can_observe_his_balance(self):
+    def user_can_observe_his_balance(self):
 
        if self.user_can_get_money:
             return self.balance
