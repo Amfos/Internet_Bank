@@ -9,4 +9,4 @@ Feature: sign in and access to workspace feature
         And I click on continue button
         And I input t_fa_code
         And I click on "Sign In"
-        Then user is logged in the system
+        Then I can see "You have successfuly logged in." message

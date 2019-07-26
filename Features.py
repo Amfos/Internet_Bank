@@ -8,7 +8,8 @@ class SignIn(BasePage):
         'password_field': [By.Xpath, '//div[@class="g-page-boxcontant"'],
         'continue_button': [By.Id, 'continue_button'],
         't_fa_field': [By.Id, 'Code'],
-        'sign_in_button': [By.Id, 'sign_button']
+        'sign_in_button': [By.Id, 'sign_button'],
+        'successful_message': [By.CSS_SELECTOR, 'p.w-text.txt']
     }
 
     def __init__(self,driver):
